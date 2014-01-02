@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedHomes.Data", "CodedHomes.Data\CodedHomes.Data.csproj", "{522B3A65-2D29-4416-9A3B-B2E004F8AA4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedHomes.Web", "CodedHomes.Web\CodedHomes.Web.csproj", "{2D4F2D62-E41D-45C6-8FC0-64B28BD8DD0F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedHomes.Web", "aCodedHomes.Web\CodedHomes.Web.csproj", "{2D4F2D62-E41D-45C6-8FC0-64B28BD8DD0F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedHomes.Admin", "CodedHomes.Admin\CodedHomes.Admin.csproj", "{E50E17A0-6396-4B80-87D7-A7FA18DD1C8A}"
 EndProject
